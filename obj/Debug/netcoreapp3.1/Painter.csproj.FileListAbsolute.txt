@@ -1,0 +1,15 @@
+C:\Users\cersosimof\Desktop\Painter\Painter\Painter\obj\Debug\netcoreapp3.1\Painter.csprojAssemblyReference.cache
+C:\Users\cersosimof\Desktop\Painter\Painter\Painter\obj\Debug\netcoreapp3.1\Painter.Form1.resources
+C:\Users\cersosimof\Desktop\Painter\Painter\Painter\obj\Debug\netcoreapp3.1\Painter.csproj.GenerateResource.cache
+C:\Users\cersosimof\Desktop\Painter\Painter\Painter\obj\Debug\netcoreapp3.1\Painter.AssemblyInfoInputs.cache
+C:\Users\cersosimof\Desktop\Painter\Painter\Painter\obj\Debug\netcoreapp3.1\Painter.AssemblyInfo.cs
+C:\Users\cersosimof\Desktop\Painter\Painter\Painter\obj\Debug\netcoreapp3.1\Painter.csproj.CoreCompileInputs.cache
+C:\Users\cersosimof\Desktop\Painter\Painter\Painter\bin\Debug\netcoreapp3.1\Painter.exe
+C:\Users\cersosimof\Desktop\Painter\Painter\Painter\bin\Debug\netcoreapp3.1\Painter.deps.json
+C:\Users\cersosimof\Desktop\Painter\Painter\Painter\bin\Debug\netcoreapp3.1\Painter.runtimeconfig.json
+C:\Users\cersosimof\Desktop\Painter\Painter\Painter\bin\Debug\netcoreapp3.1\Painter.runtimeconfig.dev.json
+C:\Users\cersosimof\Desktop\Painter\Painter\Painter\bin\Debug\netcoreapp3.1\Painter.dll
+C:\Users\cersosimof\Desktop\Painter\Painter\Painter\bin\Debug\netcoreapp3.1\Painter.pdb
+C:\Users\cersosimof\Desktop\Painter\Painter\Painter\obj\Debug\netcoreapp3.1\Painter.dll
+C:\Users\cersosimof\Desktop\Painter\Painter\Painter\obj\Debug\netcoreapp3.1\Painter.pdb
+C:\Users\cersosimof\Desktop\Painter\Painter\Painter\obj\Debug\netcoreapp3.1\Painter.genruntimeconfig.cache
